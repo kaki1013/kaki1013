@@ -9,8 +9,10 @@
 ![atcoder](https://badges.joonhyung.xyz/atcoder/kaki13.svg)
 [![solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=lmklove0)](https://solved.ac/lmklove0)
 
+<!--
 [![Codeforces Profile](http://cf.leed.at?id=kaki1013)](https://codeforces.com/profile/kaki1013)
 [![AtCoder Profile](https://atcoder-badge.kro.kr?id=kaki13)](https://atcoder.jp/users/kaki13)
+-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lmklove0)](https://solved.ac/profile/lmklove0)
 
 <!--
