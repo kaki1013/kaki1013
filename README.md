@@ -15,21 +15,35 @@
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lmklove0)](https://solved.ac/profile/lmklove0)
 
-<!--
 ## 🏆 Awards
-### 수학
-1. **Award 1**: Description of the award, including details about the competition, year, and achievement.
-2. **Award 2**: Description of the award, highlighting your accomplishment and its significance.
-3. (Add more awards as necessary.)
 
-### 알고리즘
-4. ㅇㅇ
-5. ㅇㅇ
+### 📐 수학
+- **서울시립대학교 창의적 공학수학경시대회**
+  - 20' 우수상
+  - 21' 우수상
+  - 23' 장려상
+- **대학생 수학 경시대회**
+  - 24' 1분야 은상
 
-### ㅇㅇ
-6. ㅇㅇ
-7. ㅇㅇ
--->
+### 💻 알고리즘
+- **교내 알고리즘 경진대회 (UOSPC)**
+  - 21' 대상 (2부)
+  - 23' 장려상 (2부)
+  - 24' 대상 (1부)
+- **경기과학기술대학교 하계 빅데이터 코딩 경진대회**
+  - 23' 장려상
+  - 24' 대상
+
+### 🔐 암호
+- **암호분석경진대회**
+  - 24' 특별상
+
+### 🤖 AI
+- **AICOSS 해커톤 경진대회**
+  - 23' 장려상
+- **산학협력 실습중심 딥러닝 겨울 부트캠프 경진대회**
+  - 23' 인공지능혁신융합대학사업단장상
+
  
 ## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaki1013&show_icons=true&theme=radical)
