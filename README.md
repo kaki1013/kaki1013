@@ -8,6 +8,7 @@
 ![codeforces](https://badges.joonhyung.xyz/codeforces/kaki1013.svg)
 ![atcoder](https://badges.joonhyung.xyz/atcoder/kaki13.svg)
 [![solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=lmklove0)](https://solved.ac/lmklove0)
+<!-- [![ChessStats](https://chesscom-profile-svg.vercel.app/stats?username=kaki1013)](https://www.chess.com/member/kaki1013) -->
 
 <!--
 [![Codeforces Profile](http://cf.leed.at?id=kaki1013)](https://codeforces.com/profile/kaki1013)
